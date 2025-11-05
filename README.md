@@ -296,7 +296,26 @@ A zero-backend, mobile-friendly **single HTML file** that shows **real-time open
 - **No backend** and **no API keys** — safe to embed anywhere.
 
 ---
+---
+
+## 🚀 Run the Project in Your Browser
+
+You can view and test the **Global Markets — Live Status (IST)** tool right now without downloading anything.
+
+<p align="center">
+  <a href="https://skabdulahmed8.github.io/global-markets-ist/markets-ist.html" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Run%20Code%20in%20Browser-Click%20Here-red?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Run Code in Browser">
+  </a>
+</p>
+
+> 🌐 **Live URL:** [https://skabdulahmed8.github.io/global-markets-ist/markets-ist.html](https://skabdulahmed8.github.io/global-markets-ist/markets-ist.html)
+>
+> Works perfectly in mobile and desktop Chrome — shows real-time global stock market open/close status with automatic DST handling.
+
+
 
 ## 📜 License
 
 MIT
+
+
